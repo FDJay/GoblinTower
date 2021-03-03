@@ -12,3 +12,4 @@ During each turn the Hero has 3 options to pick from.
 The hero can either take a step and possibly encounter a goblin, visit the potion shop or drink a potion gor health points.
 Every 10 steps the hero advances one level and is allowed to visit the potion shop to buy potion for 4 gold each.
 
+Instructions: Users can choose between the options provided by typing in their preferred number choice. 
